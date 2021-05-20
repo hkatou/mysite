@@ -1,6 +1,8 @@
 package main
 
-import "github.com/360EntSecGroup-Skylar/excelize"
+import "github.com/360EntSecGroup-Skylar/excelize/v2"
+
+// import "excelize"
 
 func main() {
 	var abc int
